@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre a aplicação
 
-A aplicação tem como objetivo criar um sistema de agendamentos de serviço de barbearia, em que foi desenvolvido todo o sistema de Sign In, Sign Out, recuperação de senha, agendamento do serviço, atualização do perfil.
+A aplicação tem como objetivo criar um sistema de agendamentos de serviço de barbearia, em que foi desenvolvido todo o sistema de Sign In, Sign Out, recuperação de senha, agendamento do serviço, atualização do perfil. Na versão web, temos a tela do prestador de serviço.
 
 ## 🚀 Tecnologias utilizadas
 
